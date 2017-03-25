@@ -13,3 +13,8 @@ img {
 .translate img {
     transform: translate(200px,100px);
 }
+
+/*transformacja*/
+.scale img {
+    transform: scale(1.5);
+}
