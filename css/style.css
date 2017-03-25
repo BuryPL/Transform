@@ -7,3 +7,9 @@ img {
 .rotate img {
     transform: rotate(20deg);
 }
+
+
+/*transformacja*/
+.translate img {
+    transform: translate(200px,100px);
+}
